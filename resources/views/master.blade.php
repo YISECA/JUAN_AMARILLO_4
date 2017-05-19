@@ -168,9 +168,9 @@
 
               <div class="col-lg-8 col-md-7 col-sm-6">
 
-                <h1>IDRD</h1>
+                <h1><font size="6" face="Comic Sans MS,arial,verdana">IDRD</font></h1>
 
-                <center<p class="lead"><h1>EXPEDICIÓN A JUAN AMARILLO </h1></p>
+                <center<p class="lead"><h1><font size="6" face="Comic Sans MS,arial,verdana">EXPEDICIÓN A JUAN AMARILLO </font></h1></p>
 
               </div>
 

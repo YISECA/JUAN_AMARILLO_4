@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Ciclopaseo Humedal de Juan Amarillo  Mayo 14 de 2017
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Ciclopaseo Humedal de Juan Amarillo  Mayo 21 de 2017
 </div>
 
                     </div>
@@ -33,7 +33,7 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/juan.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/juan3.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
@@ -47,7 +47,7 @@
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/juan2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/juan.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -117,7 +117,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 14 de Mayo de 2017</p>
+                                            <p>Domingo 21 de Mayo de 2017</p>
 
                                         </td>
 
